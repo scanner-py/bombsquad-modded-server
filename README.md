@@ -1,3 +1,6 @@
+> [!WARNING]  
+> These server files are from an older version of game and are no longer maintained by me. Support for these files will soon be discontinued, meaning they will not be compatible with future game updates. For the latest version, please check out the [main](https://github.com/scanner-py/bombsquad-modded-server-1.4/tree/main) branch.
+ 
 <h1>INFORMATION</h1>
 
 [![MPL License](https://img.shields.io/badge/License-MPL-green.svg)](https://github.com/Sudo-Desier/Desire-Bs-Server-1.4/blob/main/LICENSE)
@@ -19,21 +22,6 @@ Just Download and Add this Files to Your server
 - `chmod 777 config.py`
 - `tmux`
 - `./bombsquad_server`
-
-# Requirements
-
-1. Brain
-
-**Having Problem?**
-**Got A Bug?**
-
-[![Discord Server](https://img.shields.io/badge/Discord-Server-blue.svg)](https://discord.gg/gaf4duhfmS)
-
-**OR**
-
-Discord :- Desire#2365
-
-*Happy BombSquading*
 
 # Features 
 
@@ -76,22 +64,6 @@ Discord :- Desire#2365
 |   ![shock](https://cdn.discordapp.com/attachments/1009755282265604198/1036922315654574100/IMG_20221101_135640.jpg)   |  Shockwave |
 |   ![cursebomb](https://media.discordapp.net/attachments/1009755282265604198/1040233068474159155/Screenshot_2022-11-10-17-24-19-400-edit_net.froemling.bombsquad.jpg)   |  CurseBomb | 
 
-# Changelog 1.5
-- Removed auto night mode 
-
-- Rip some bugs
-
-- New roles
-1. Egg support
-2. manager
-3. Cursed ( this is worse than ban)
-
-- more commands added
-
-- made already made commands easy to use
-
-*This is last time iam updating this script*
-
 # Thanks
 
 **Special Thanks To all Of them**
@@ -103,4 +75,3 @@ Discord :- Desire#2365
 - Thanks To SobyDamn
 - Thanks To MythB
 - Thanks To egg 🥚
-- ok
